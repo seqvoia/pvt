@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ScoreAW
+//  BrazilFlag
 //
-//  Created by Kirill Parkhimchik on 4/22/19.
+//  Created by Kirill Parkhimchik on 4/29/19.
 //  Copyright © 2019 Kirill Parkhimchik. All rights reserved.
 //
 
